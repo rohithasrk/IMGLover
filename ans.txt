@@ -1,0 +1,109 @@
+Array
+(
+    [HTTP_HOST] => rohithasrk.comuf.com
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_REFERER] => http://file-manager.000webhost.com/file-manager/index.php
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.8,en;q=0.6
+    [PATH] => /sbin:/bin:/usr/sbin:/usr/bin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_NAME] => rohithasrk.comuf.com
+    [SERVER_ADDR] => 31.170.163.130
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 49.32.24.136
+    [DOCUMENT_ROOT] => /usr/local/apache/htdocs
+    [SERVER_ADMIN] => admin@000webhost.com
+    [SCRIPT_FILENAME] => /www/rohithasrk.comuf.com/imgl/index.php
+    [REMOTE_PORT] => 60690
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /imgl/index.php
+    [SCRIPT_NAME] => /imgl/index.php
+    [PHP_SELF] => /imgl/index.php
+    [REQUEST_TIME] => 1465369603
+)
+Array
+(
+    [HTTP_HOST] => rohithasrk.comuf.com
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_REFERER] => http://file-manager.000webhost.com/file-manager/index.php
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en-US;q=0.8,en;q=0.6
+    [PATH] => /sbin:/bin:/usr/sbin:/usr/bin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_NAME] => rohithasrk.comuf.com
+    [SERVER_ADDR] => 31.170.163.130
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 49.32.24.136
+    [DOCUMENT_ROOT] => /usr/local/apache/htdocs
+    [SERVER_ADMIN] => admin@000webhost.com
+    [SCRIPT_FILENAME] => /www/rohithasrk.comuf.com/imgl/index.php
+    [REMOTE_PORT] => 60692
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /imgl/index.php
+    [SCRIPT_NAME] => /imgl/index.php
+    [PHP_SELF] => /imgl/index.php
+    [REQUEST_TIME] => 1465369603
+)
+Array
+(
+    [HTTP_HOST] => rohithasrk.comuf.com
+    [HTTP_CONNECTION] => close
+    [PATH] => /sbin:/bin:/usr/sbin:/usr/bin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_NAME] => rohithasrk.comuf.com
+    [SERVER_ADDR] => 31.170.163.130
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 188.166.184.216
+    [DOCUMENT_ROOT] => /usr/local/apache/htdocs
+    [SERVER_ADMIN] => admin@000webhost.com
+    [SCRIPT_FILENAME] => /www/rohithasrk.comuf.com/imgl/index.php
+    [REMOTE_PORT] => 48270
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /imgl/index.php
+    [SCRIPT_NAME] => /imgl/index.php
+    [PHP_SELF] => /imgl/index.php
+    [REQUEST_TIME] => 1465369629
+)
+Array
+(
+    [HTTP_COOKIE] => flag=###################################################################
+    [HTTP_HOST] => rohithasrk.comuf.com
+    [HTTP_CONNECTION] => close
+    [PATH] => /sbin:/bin:/usr/sbin:/usr/bin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_NAME] => rohithasrk.comuf.com
+    [SERVER_ADDR] => 31.170.163.130
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 188.166.184.216
+    [DOCUMENT_ROOT] => /usr/local/apache/htdocs
+    [SERVER_ADMIN] => admin@000webhost.com
+    [SCRIPT_FILENAME] => /www/rohithasrk.comuf.com/imgl/index.php
+    [REMOTE_PORT] => 48271
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /imgl/index.php
+    [SCRIPT_NAME] => /imgl/index.php
+    [PHP_SELF] => /imgl/index.php
+    [REQUEST_TIME] => 1465369630
+)
